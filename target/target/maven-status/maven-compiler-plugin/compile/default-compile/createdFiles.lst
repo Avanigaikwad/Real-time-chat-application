@@ -1,0 +1,12 @@
+com\substring\chat\controller\RoomController.class
+com\substring\chat\config\AppConstants.class
+com\substring\chat\controller\ChatController.class
+com\substring\chat\payload\MessageRequest.class
+com\substring\chat\entities\Room.class
+com\substring\chat\config\EnvConfig.class
+com\substring\chat\service\RoomService.class
+com\substring\chat\repositories\RoomRepository.class
+com\substring\chat\ChatAppBackendApplication.class
+com\substring\chat\config\MongoConfig.class
+com\substring\chat\entities\Message.class
+com\substring\chat\config\WebSocketConfig.class
